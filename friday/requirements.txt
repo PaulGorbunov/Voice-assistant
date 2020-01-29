@@ -1,0 +1,4 @@
+tornado==5.1
+bs4
+requests
+multiprocessing
